@@ -1,0 +1,8 @@
+{
+    "project_title":"cookiecutter personal",
+    "project_slug": "Testing",
+    "project_description": "",
+    "project_packages": ["All","Minimal"],
+    "python_version":3.9
+    
+}
