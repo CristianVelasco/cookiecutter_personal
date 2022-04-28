@@ -21,7 +21,7 @@ _A logical, reasonably standardized, but flexible project structure for doing an
 In a folder where you want your project generated:
 
 ```bash
-cookiecutter https://github.com/jvelezmagic/cookiecutter-conda-data-science
+cookiecutter https://github.com/CristianVelasco/cookiecutter_personal
 ```
 
 ## Resulting directory structure
